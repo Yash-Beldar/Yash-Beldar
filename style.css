@@ -1,4 +1,6 @@
-/*  import google fonts */
+/*  import google fonts 
+ Yashodip Beldar
+ */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 
 *{
@@ -679,26 +681,26 @@ footer span .foot:hover{
     }
 }
 .school{
-    color:crimson;
+    color: crimson;
 }
 .college{
-    color:crimson;
+    color: crimson;
 }
 .virwade{
-    color:crimson;
+    color: crimson;
 }
 .chopda{
-    color:crimson;
+    color: crimson;
 }
 .jalgoan{
-    color:crimson;
+    color: crimson;
 }
 .cp{
-    color:rgb(187, 248, 55);
+    color: rgb(187, 248, 55);
 }
 .python{
-    color:rgb(187, 248, 55);
+    color: rgb(187, 248, 55);
 }
 .arijit{
-    color:rgb(251, 80, 7);
+    color: rgb(251, 80, 7);
 }
