@@ -371,10 +371,10 @@ section .title::after{
     width: 30%;
 }
 .skills-content .right .js::before{
-    width: 10%;
+    width: 5%;
 }
 .skills-content .right .php::before{
-    width: 40%;
+    width: 90%;
 }
 .skills-content .right .mysql::before{
     width: 10%;
